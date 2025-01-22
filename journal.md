@@ -4,3 +4,4 @@ We created groups that we will work with for the rest of the class. We also lear
 
 Date: 1/21/2025 - Subject:
 Today we got together as a group and came up with app ideas. 
+We also learned about the different types of stakeholders.
