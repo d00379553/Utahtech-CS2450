@@ -9,3 +9,7 @@ We also learned about the different types of stakeholders.
 Date: 1/28/2025 - Subject: Week 4
 Today we got together as a group and worked on the requirements document for our project. This assignment involved writing down
 the business context, problem statement, scope, assumptions, features and non-features of the project. 
+
+Date: 2/6/2025 - Subject: Week 5
+Today we created a Flow diagram and a component diagram. These help us get a visual representation of how our project our going to work
+on a step to step basis. They also help us figure out where exactly an error is happening in our app. 
