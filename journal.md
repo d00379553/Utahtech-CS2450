@@ -13,3 +13,8 @@ the business context, problem statement, scope, assumptions, features and non-fe
 Date: 2/6/2025 - Subject: Week 5
 Today we created a Flow diagram and a component diagram. These help us get a visual representation of how our project our going to work
 on a step to step basis. They also help us figure out where exactly an error is happening in our app. 
+
+Date: 2/13/2025 - Subject: Week 6
+This week we got together and created a presentation for our project that we'll be presenting on tuesday next week. 
+We also learned about different ways to make or break a presentation with certain details, such as:
+Color, fonts, sizing, pictures, etc. 
