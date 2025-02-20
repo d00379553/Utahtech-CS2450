@@ -18,3 +18,8 @@ Date: 2/13/2025 - Subject: Week 6
 This week we got together and created a presentation for our project that we'll be presenting on tuesday next week. 
 We also learned about different ways to make or break a presentation with certain details, such as:
 Color, fonts, sizing, pictures, etc. 
+
+Date: 2/20/2025 - Subject: Week 7
+This week we presented our project to our class. We also watched our classmates give their presentations.
+During our presentation, we were able to answer some of the questions our classmates had about our project. This created new ideas
+of things we may be able to add to make our project better. 
