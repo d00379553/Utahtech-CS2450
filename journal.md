@@ -23,3 +23,8 @@ Date: 2/20/2025 - Subject: Week 7
 This week we presented our project to our class. We also watched our classmates give their presentations.
 During our presentation, we were able to answer some of the questions our classmates had about our project. This created new ideas
 of things we may be able to add to make our project better. 
+
+Date: 2/27/2025 - Subject: Week 8
+This week our project was to create a kanban board in our github team repo. This board helps our group visualize the assignments 
+that need to be done and who is assigned to them. Doing this allowed us to take the first steps into creating our website. 
+
