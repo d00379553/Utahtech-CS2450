@@ -28,3 +28,6 @@ Date: 2/27/2025 - Subject: Week 8
 This week our project was to create a kanban board in our github team repo. This board helps our group visualize the assignments 
 that need to be done and who is assigned to them. Doing this allowed us to take the first steps into creating our website. 
 
+Date: 3/06/2025 - Subject: Week 9
+This week we learn about ethics and the user experience. This was the last class before spring break. 
+
