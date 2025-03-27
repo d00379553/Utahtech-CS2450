@@ -31,3 +31,10 @@ that need to be done and who is assigned to them. Doing this allowed us to take 
 Date: 3/06/2025 - Subject: Week 9
 This week we learn about ethics and the user experience. This was the last class before spring break. 
 
+Date: 3/20/2025 - Subject: Week 10
+This is the first week back after spring break. We worked on our unit tests this week. 
+
+Date: 3/27/2025 - Subject: Week 11
+This week we worked on the refactoring project. This helps up organize and clean up our code so it can be reusable in the future.
+
+
