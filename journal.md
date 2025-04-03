@@ -37,4 +37,6 @@ This is the first week back after spring break. We worked on our unit tests this
 Date: 3/27/2025 - Subject: Week 11
 This week we worked on the refactoring project. This helps up organize and clean up our code so it can be reusable in the future.
 
+Date: 4/3/2025 - Subject: Week 12
+This week we worked on the developement pipeline automations. We also continued to work on our group website. 
 
