@@ -40,3 +40,6 @@ This week we worked on the refactoring project. This helps up organize and clean
 Date: 4/3/2025 - Subject: Week 12
 This week we worked on the developement pipeline automations. We also continued to work on our group website. 
 
+Date: 4/10/2025 - Subject: Week 13
+This week we created the docker environment. We learned about what the last few weeks of the semester will look like and continued to work on
+our group projects. 
