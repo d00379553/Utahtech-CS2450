@@ -43,3 +43,8 @@ This week we worked on the developement pipeline automations. We also continued 
 Date: 4/10/2025 - Subject: Week 13
 This week we created the docker environment. We learned about what the last few weeks of the semester will look like and continued to work on
 our group projects. 
+
+Date: 4/17/2025 - Subject: Week 14
+This week we learned about different types of security threats and how to prevent them. There was no class on Thursday, so I used the time to 
+work on the group project.
+
