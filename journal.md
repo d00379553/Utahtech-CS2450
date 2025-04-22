@@ -48,3 +48,5 @@ Date: 4/17/2025 - Subject: Week 14
 This week we learned about different types of security threats and how to prevent them. There was no class on Thursday, so I used the time to 
 work on the group project.
 
+Date: 4/22/2025 - Subject: Week 15
+This week we updated our group website and gave our presentations to the class. We also watched our classmates give their presentations. 
